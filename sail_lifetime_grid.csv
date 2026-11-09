@@ -1,0 +1,16 @@
+initial_altitude_km,case,angle_deg,effective_area_m2,status,lifetime_days,simulated_days,final_altitude_km
+300,no_sail,,0.8,threshold_reached,26.392246,26.392246,120.000
+300,deployed_sail,0,10.8,threshold_reached,1.952910,1.952910,120.000
+300,deployed_sail,30,9.460254037844388,threshold_reached,2.232848,2.232848,120.000
+300,deployed_sail,60,5.800000000000001,threshold_reached,3.647406,3.647406,120.000
+300,deployed_sail,90,0.8,threshold_reached,26.392246,26.392246,120.000
+350,no_sail,,0.8,threshold_reached,74.525488,74.525488,120.000
+350,deployed_sail,0,10.8,threshold_reached,5.954022,5.954022,120.000
+350,deployed_sail,30,9.460254037844388,threshold_reached,6.826723,6.826723,120.000
+350,deployed_sail,60,5.800000000000001,threshold_reached,10.985279,10.985279,120.000
+350,deployed_sail,90,0.8,threshold_reached,74.525488,74.525488,120.000
+400,no_sail,,0.8,beyond_horizon,,90.000000,371.805
+400,deployed_sail,0,10.8,threshold_reached,15.152192,15.152192,120.000
+400,deployed_sail,30,9.460254037844388,threshold_reached,17.201419,17.201419,120.000
+400,deployed_sail,60,5.800000000000001,threshold_reached,27.746085,27.746085,120.000
+400,deployed_sail,90,0.8,beyond_horizon,,90.000000,371.805
